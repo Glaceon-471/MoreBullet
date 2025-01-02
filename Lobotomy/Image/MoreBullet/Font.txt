@@ -1,0 +1,4 @@
+フォント名	: Gill Sams MT
+種類		: Regular
+サイズ		: 32pt
+VA		: 10
